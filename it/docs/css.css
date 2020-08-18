@@ -1,0 +1,84 @@
+body{
+    background-color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6, .md-typeset h1, a, .md-nav__link[data-md-state=blur], .md-header-nav__topic, .md-header a, .md-tabs, .md-nav,
+[data-md-toggle=search]:checked~.md-header .md-search__input,
+.md-search-result__teaser,
+.md-search-result__icon,
+.md-search-result__meta,
+.md-nav--primary .md-nav__title[for=__drawer],
+.md-nav--primary .md-nav__title,
+.md-nav__link,
+.md-header,
+[data-md-toggle=search]:checked~.md-header .md-search__input:not(:placeholder-shown)~.md-search__icon[type=reset],
+[data-md-toggle=search]:checked~.md-header .md-search__input+.md-search__icon, [data-md-toggle=search]:checked~.md-header .md-search__input::placeholder,
+.md-search__input+.md-search__icon{
+    color: #1781e3 !important; 
+}
+
+.md-tabs__link{
+    opacity: 1;
+}
+
+p, ul, ol{
+    color: #fafafa;
+}
+
+.md-header, .md-tabs,
+.md-search-result__meta,
+.md-nav,
+.md-nav--primary .md-nav__title~.md-nav__list,
+.md-nav--primary .md-nav__title[for=__drawer]{
+    background-color: #000000;
+}
+
+.md-search-result__meta,
+[data-md-toggle=search]:checked~.md-header .md-search__input,
+.md-search-result__link,
+.md-search-result__link:focus, .md-search-result__link:hover,
+.md-search__scrollwrap{
+    background-color: #132030;
+}
+
+.md-search-result__link:focus, .md-search-result__link:hover{
+    background-color: #132030;
+}
+
+
+
+.md-nav__item .md-nav__link--active, .md-nav__link--active, .md-nav__link:focus, .md-nav__link:hover, .md-nav__link:focus, .md-nav__link:hover, .md-footer-nav__link:focus, .md-footer-nav__link:hover, .md-tabs__link--active, .md-tabs__link:hover, .md-footer-nav__link:focus, .md-footer-nav__link:hover, .md-tabs__link--active, .md-tabs__link:hover,
+.md-search-result__link:focus h1, .md-search-result__link:hover h1, .md-search-result__link:focus p, .md-search-result__link:hover p,
+ .md-search__input::placeholder{
+    color: #0048CF !important;
+    opacity: 1;
+}
+
+.md-footer-meta{
+    display: none;
+}
+
+@media screen and (min-width: 76.25em){
+    .md-header[data-md-state=shadow], .md-tabs{
+        border-bottom: 1px solid #1781e3;
+    }
+}
+
+@media screen and (max-width: 76.25em){
+    .md-header[data-md-state=shadow], .md-tabs, .md-header{
+        border-bottom: 1px solid #1781e3;
+    }
+}
+
+.md-typeset code{
+    background-color: #1781e3;
+    color: #fafafa;
+}
+
+.md-typeset blockquote{
+    border-left: .2rem solid #1781e3;
+}
+
+.md-footer-nav__inner{
+    display: none;
+}
