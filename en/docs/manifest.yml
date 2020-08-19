@@ -1,9 +1,0 @@
----
-applications:
-- name: tvaasanleitung
-  memory: 64MB
-  instances: 1
-  buildpack: php_buildpack
-
-  env:
-    APP_ENV: production
