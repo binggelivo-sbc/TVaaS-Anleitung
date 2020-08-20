@@ -14,15 +14,15 @@ Nun sind Sie auf dem What's On Bildschirm. Diese Ansicht ist wie ein On Demand S
 
 #### Jetzt!
 
-Hier sehen Sie das Programm dass sie Gerade schauen.
+Hier sehen Sie das Programm dass sie gerade schauen.
 
 ![](../img/tv/whatson_whatson_jetzt.jpg) 
 
 #### Replay
 
-Bei Replay sind alle Kategorien aufgelistet die im Momen im Replay zur Verfügung stehen.
+Bei Replay sind alle Kategorien aufgelistet, die im Moment im Replay zur Verfügung stehen.
 
-Sie können den Kagetorie sehen und die Zahl dahinter zeigt wie viele Sendungen zu dieser Kategorie zur Verfügung stehen.
+Die Zahlen hinter der Kagetorien zeigen wie viele Sendungen in dieser Kategorie zur Verfügung stehen.
 
 ![](../img/tv/whatson_whatson_replay.jpg) 
 
@@ -30,13 +30,13 @@ Wenn Sie eine Kategorie auswählen kommen Sie in die Replay Bibliothek direkt zu
 
 #### Zuletzt in Replay
 
-Sendungen die Sie gerade verpasst haben werden hier aufgelistet. Diese Ansicht eignet sich hervorragend zum schmöckern.
+Sendungen die Sie gerade verpasst haben, werden hier aufgelistet. Diese Ansicht eignet sich hervorragend zum Schmöckern.
 
 ![](../img/tv/whatson_whatson_zuletztreplay.jpg) 
 
 #### Letzte Aufnahmen
 
-Sie haben warscheindlich eine Serie aboniert zum Aufnehmen oder haben weit in der Zukunft eine Sendung zum Aufnehmen gekenzeichnet. Dann können Sie hier die frisch aufgezeichneten Sendungen finden.
+Sie haben warscheindlich eine Serie abonniert zum Aufnehmen oder haben weit in der Zukunft eine Sendung zum Aufnehmen gekennzeichnet. Dann können Sie hier die frisch aufgezeichneten Sendungen finden.
 
 Wenn Sie auf `Mehr anzeigen` gehen kommen Sie zu Ihren Aufnahmen.
 
@@ -74,11 +74,13 @@ Wenn Sie Radio wählen kommen sie zur Radioauswahl.
 
 Im Guid können Sie sehen was gerade auf den Sendern läuft und welche Sendungen folgen.
 
-Navigieren Sie durch die Sendungen und sie können unten den Sendungsnamen, die Beschreibung und die Zeit von wan bis wann die Sendung läuft sehen.
+Navigieren Sie durch die Sendungen und sie können unten den Sendungsnamen, die Beschreibung und die Zeit sehen.
 
-Wenn Sie die Sendung mit `OK` auswählen kommen sie in die Sendung oder wenn die Sendung schon vergangen ist ins Replay wenn verfügbar.
+Wenn Sie die Sendung mit `OK` auswählen kommen sie in die Sendung oder wenn die Sendung schon vergangen ist ins Replay, wenn verfügbar.
 
 Mit den Knöpfen ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) können Sie Tageweise springen. Mit den Knöpfen ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolback.png) in drei Stunden sprünge.
+
+> Wie viele Stunden angezeigt werden, können Sie in den Einstellungen einstellen.
 
 ![](../img/tv/tv_guidechose.png) 
 
