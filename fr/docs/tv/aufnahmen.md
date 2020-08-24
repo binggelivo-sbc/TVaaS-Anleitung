@@ -1,6 +1,6 @@
 # Aufnahmen
 
-In den Aufnahmen finden Sie alle Sendungen die Sie zur Aufnahme markiert haben.
+In den Aufnahmen finden Sie alle Sendungen, die Sie zur Aufnahme markiert haben.
 
 Oben neben dem Zurück sind verschiedene Filter, die Ihnen helfen die Aufnahme zu finden.
 
@@ -14,7 +14,7 @@ Unten finden Sie ein kleiner Beschrieb der Sendung. Wenn Sie die Sendung auswäh
 
 ## Alle
 
-Hier finden Sie alle Sendungen die aufgenommen wurden.
+Hier finden Sie alle Sendungen, die aufgenommen wurden.
 
 Unten finden Sie ein kleiner Beschrieb der Sendung. Wenn Sie die Sendung auswählen kommen Sie zur [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo"). Gerade oberhalb des Sendungsbeschriebs können Sie sehen wie viel Speicherplatz ihre Aufgenommenen Sendungen belegen und wie viel, dass Sie noch belegen können.
 
@@ -28,7 +28,7 @@ Links neben der Liste sind Bedienelemente.
 
 ### Filter
 
-Wenn mann auf `Filter` klickt erscheint ein Fenster mit allen Kategorien die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und sie Sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
+Wenn man auf `Filter` klickt erscheint ein Fenster mit allen Kategorien, die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und sie Sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
 
 ![](../img/tv/aufnahmen_filter.jpg) 
 
@@ -38,7 +38,7 @@ Wenn Sie auf `Schauen` gehen beginnt die Aufnahme direkt vom Anfang.
 
 ### Löschen
 
-Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliotek entfernen und so mit Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
+Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliothek entfernen und somit Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
 
 ### Sperren
 
@@ -46,7 +46,7 @@ Wenn Sie nicht möchten das jemand anderes Iher Aufnahme anschaut oder löscht, 
 
 ## Geplant
 
-Hier finden Sie alle Sendungen die in Zukunft aufgenommen werden.
+Hier finden Sie alle Sendungen, die in Zukunft aufgenommen werden.
 
 ![](../img/tv/aufnahmen_geplant.jpg) 
 
@@ -58,14 +58,14 @@ Links neben der Liste sind Bedienelemente.
 
 ### Filter
 
-Wenn mann auf `Filter` klickt erscheint ein Fenster mit allen Kategorien die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und sie Sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
+Wenn man auf `Filter` klickt erscheint ein Fenster mit allen Kategorien, die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und sie Sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
 
 ![](../img/tv/aufnahmen_filter.jpg) 
 
 ### Löschen
 
-Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliotek entfernen und so mit Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
+Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliothek entfernen und so mit Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
 
 ### Sperren
 
-Wenn Sie nicht möchten das jemand anderes Iher Aufnahme anschaut oder löscht, können Sie die Aufnahme sperren. Nun ist es nur noch mit dem `Master PIN` möglich die Aufnahme zu löschen oder anzusehen.
+Wenn Sie nicht möchten das jemand anderes Ihre Aufnahme anschaut oder löscht, können Sie die Aufnahme sperren. Nun ist es nur noch mit dem `Master PIN` möglich die Aufnahme zu löschen oder anzusehen.
