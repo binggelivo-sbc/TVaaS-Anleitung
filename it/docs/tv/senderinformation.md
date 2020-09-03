@@ -1,38 +1,38 @@
 # TV Oberfläche
 
-Wenn Sie ihren TV einschalten, sehen Sie normalerweise den Sender, den Sie zuletzt geschaut haben.
+Wenn Sie Ihren TV einschalten, sehen Sie normalerweise den Sender, den Sie zuletzt geschaut haben.
 
 ## Infobanner
 
-Wenn Sie auf ![](../img/tv/button_ok.png) klicken, können Sie den aktuellen Sender sehen. Ebenfalls sehen Sie, welche Sendung gerade läuft und was danach folgt.
+Klicken Sie auf ![](../img/tv/button_ok.png) dann schauen Sie das Programm, das auf dem aktuellen Sender läuft. Ebenfalls sehen Sie, welche Sendung zu diesem Zeitpunkt läuft und welche Sendung im Anschluss folgt.
 
-Mit den rechts und links Tasten können Sie im Programm des Senders wechseln.
+Mit den `rechts und links Tasten` können Sie im Programm des Senders hin- und herwechseln.
 
-Mit den rauf und runter Tasten können sie den Sender wechseln.
+Mit den `rauf und runter Tasten` wechseln Sie den Sender.
 
-Wenn sie noch mal ![](../img/tv/button_ok.png) drücken kommen Sie in die Sendungsinfo.
+Ein weiterer Klick auf die ![](../img/tv/button_ok.png) Taste bringt Sie zur Sendungsinfo.
 
 ![](../img/tv/info_programmbalken.jpg)
 
 ## Sendungsinfo
 
-Mit dem ![](../img/tv/button_info.png) Knopf auf der Fernbedienung kommen Sie in die Sendungsinfo. Hier können sie die Informationen zur Sendung sehen.
+Die ![](../img/tv/button_info.png) Taste zeigt Ihnen Informationen zur Sendung auf.
 
 ### Infomenu
 
-Auf der linken Seite in der Sendungsinfo finden Sie vier Knöpfe:
+Die Sendungsinfo weist auf der linken Seite vier Knöpfe auf:
 
 ![](../img/tv/info_schauen.jpg)
 
 #### Sprache
 
-Wenn sie mit den Pfeiltasten auf `Sprache` navigieren und `Ok` klicken, kommen Sie auf die Spracheinstellung des Senders.
+Klicken Sie mit den Pfeiltasten auf `Sprache` navigieren und klicken Sie `Ok`, kommen Sie auf die Spracheinstellung des Senders.
 
-> In dieses Menu kommt man auch mit der `Titles` Taste auf der Fernbedienung.
+> Mit der `Titles` Taste auf der Fernbedienung gelangen Sie direkt in dieses Menu.
 
 ![](../img/tv/info_sprache.jpg)
 
-Hier können Sie die Audiosprache und der Untertitel einstellen. Die verfügbaren Sprachen sind vom Sender abhängig.
+Stellen Sie die Audiosprache und die Untertitel ein. Die verfügbaren Sprachen sind vom jeweiligen Sender abhängig.
 
 > Allgemeine Sprachoptionen können in den ["Audio-Video" Einstellungen](../einstellungen/#audio-video) geändert werden.
 
@@ -40,23 +40,23 @@ Hier können Sie die Audiosprache und der Untertitel einstellen. Die verfügbare
 
 #### Aufnahme
 
-Wenn Sie über `Aufnahme` OK klicken, wird die Sendung aufgenommen und ist somit am Ende der Sendung verfügbar in Ihren Aufnahmen. 
+Klicken Sie `Aufnehmen` mit der OK-Taste nehmen Sie die gewünschte Sendung auf. Diese ist nach dem Ende in den `Aufnahmen` zu finden.
 
 > Dies funktioniert auch mit dem ![](../img/tv/button_record.png) Knopf auf der Fernbedienung.
 
 ![](../img/tv/info_aufnehmen.jpg)
 
-Falls dort `Bearbeiten` steht, kann man mit OK draufklicken. Nun erscheint ein Fenster mit verschiedenen Optionen.
+Klicken Sie OK, wenn die Funktion `Bearbeiten` verfügbar ist. Ein Fenster mit verschiedenen Optionen erscheint.
 
-> In dieses Menu kommt man auch mit dem ![](../img/tv/button_record.png) Knopf auf der Fernbedienung.
+> Mit der ![](../img/tv/button_record.png) Taste gelangen Sie direkt in dieses Menu.
 
 ![](../img/tv/info_aufnehmen_bearbeiten.jpg)
 
-Mit `Schliessen` kann man das Fenster wieder schliessen.
+Klicken Sie die Funktion `Schliessen`, um das Fenster zu schliessen.
 
-Mit `Löschen` unterbricht man die Aufnahme und das bereits Aufgenommene wird gelöscht.
+Mit `Löschen` unterbrechen Sie die Aufnahme und das bereits Aufgenommene wird gelöscht.
 
-Unter `Wiederholen` kann man mit den Navigationstasten einstellen, ob nur diese Sendung oder die ganze Serie aufgenommen werden soll.
+Unter `Wiederholen` entscheiden Sie, ob Sie nur eine einzelne Sendung oder die ganze Serie aufnehmen möchten.
 
 ![](../img/tv/info_aufnehmen_wiederholen.jpg)
 
@@ -68,7 +68,11 @@ Mit dieser Schaltfläche kann man per OK an den Anfang der Sendung springen.
 
 #### Schauen 
 
-Entweder man klickt auf die `Schauen` Schaltfläche oder nach einer bestimmten Zeit wird die Info ausgeblendet.
+1. Zeile: Name der Sendung
+2. Zeile: Sender mit Start- und Endzeit
+3. Zeile: Kategorie
+Lauftext gibt den Inhalt der Sendung in Kürze wider. 
+Ist die Schaltfläche Verfügbar mit Replay  verfügbar, können Sie die Sendung von Anfang an schauen.
 
 ![](../img/tv/info_schauen.jpg)
 
@@ -80,16 +84,16 @@ Oben angefangen mit dem Namen der Sendung. Danach der Sender mit der Start- und 
 
 ### Senderbalken
 
-Auf dem Senderbalken kann man sehen, welche Sendung im Moment läuft und welche Sendungen folgen.
+Auf dem Senderbalken erkennen Sie, welche Sendung im Moment läuft und welche Sendungen folgen.
 
 ![](../img/tv/info_schauen.jpg)
 
-> Dieser Balken kann auch eingeblendet werden, wenn man auf die `OK` Taste drückt. Drückt man nochmal `OK`, dann kommt man in die Sendungsinfo.
+> Blenden Sie den Balkem mit einem Klick auf die `OK` Taste. Drücken Sie ein weiteres Mal die `OK` Taste, dann gelangen Sie zur Sendungsinfo.
 
 ![](../img/tv/info_programmbalken.jpg)
 
 ## Home
 
-Wenn Sie auf der Fernbedienung ![](../img/tv/button_home.png) drücken, kommen Sie auf den Homebildschirm. Von hier können sie in die verschiedenen Funktionen gehen.
+Klicken Sie auf die ![](../img/tv/button_home.png) Taste, gelangen Sie zum Home Bildschirm. Von hier navigieren Sie zu den verschiedenen Funktionen.
 
 ![](../img/tv/home.jpg)

@@ -39,5 +39,5 @@ nav:
     - Einstellungen: mobile/einstellungen.md
 
 plugins:
-  - search:
-      lang: de
+    - search:
+        lang: de

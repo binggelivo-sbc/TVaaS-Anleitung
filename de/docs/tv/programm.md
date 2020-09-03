@@ -1,6 +1,6 @@
 # TV Programm
 
-Wenn Sie auf Ihrer Fernbedienung auf ![](../img/tv/button_home.png) klicken. Kommen Sie in den Home-Bildschirm. Navigieren Sie nun zu `TV`.
+Klicken Sie auf die ![](../img/tv/button_home.png) Taste und gelangen Sie zum Home-Bildschirm. Navigieren Sie nun zu `TV`.
 
 ## What's On?
 
@@ -10,23 +10,23 @@ Navigieren Sie zu `What's On?` oder auf die grosse Schaltfläche `Discover`.
 
 ### What's On?
 
-Nun sind Sie auf dem What's On Bildschirm. Diese Ansicht ist wie ein On-Demand-Store aufgebaut.
+Sie befinden sich nun auf dem What's On Bildschirm. Diese Ansicht ist wie ein `On-Demand-Store` aufgebaut.
 
 #### Jetzt!
 
-Hier sehen Sie das Programm, dass sie gerade schauen.
+Hier ersichtlich, welche Sendung Sie gerade schauen.
 
 ![](../img/tv/whatson_whatson_jetzt.jpg) 
 
 #### Replay
 
-Bei Replay sind alle Kategorien aufgelistet, die im Moment im Replay zur Verfügung stehen.
+Alle Sendungen, die im «Replay-Modus» verfügbar sind, sind als Kategorie aufgelistet.
 
-Die Zahlen hinter den Kategorien zeigen wie viele Sendungen in dieser Kategorie zur Verfügung stehen.
+In jeder Kategorie ist gekennzeichnet, wie viele Sendungen der jeweiligen Kategorie verfügbar sind.
 
 ![](../img/tv/whatson_whatson_replay.jpg) 
 
-Wenn Sie eine Kategorie auswählen kommen Sie in die Replay Bibliothek direkt zu der gewählten Kategorie. 
+Wählen Sie eine Kategorie aus und gelangen Sie direkt zu den verfügbaren Sendungen dieser Kategorie.
 
 #### Zuletzt in Replay
 
@@ -36,9 +36,9 @@ Sendungen, die Sie gerade verpasst haben, werden hier aufgelistet. Diese Ansicht
 
 #### Letzte Aufnahmen
 
-Sie haben wahrscheindlich eine Serie abonniert zum Aufnehmen oder haben weit in der Zukunft eine Sendung zum Aufnehmen gekennzeichnet. Dann können Sie hier die frisch aufgezeichneten Sendungen finden.
+Haben Sie eine Serie abonniert oder eine Sendung, welche in der Zukunft liegt, zum Aufnehmen gekennzeichnet. Dann können Sie hier die kürzlich aufgezeichneten Sendungen finden.
 
-Wenn Sie auf `Mehr anzeigen` gehen kommen Sie zu Ihren Aufnahmen.
+Mit `Mehr anzeigen` gelangen Sie zu Ihren Aufnahmen.
 
 ![](../img/tv/whatson_whatson_letztaufnahme.jpg) 
 
@@ -48,106 +48,106 @@ Sie können auf der What's On Seite zu der `TV/Radio` Schaltfläche navigieren.
 
 #### Guide
 
-Wenn Sie Guide wählen kommen sie in den TV Guide.
+Wählen Sie Guide haben Sie die Möglichkeit, die Schaltfläche «TV Guide» zu klicken.
 
 ![](../img/tv/whatson_tvradio_guide.jpg) 
 
 #### Recording
 
-Wenn Sie Recording wählen kommen Sie in ihre Aufnahmebibliothek.
+Wenn Sie `Recording` wählen, gelangen Sie in Ihre Aufnahmebibliothek.
 
 ![](../img/tv/whatson_tvradio_recording.jpg) 
 
 #### Replay
 
-Wenn Sie Replay wählen kommen Sie in den On-Demand-Store.
+Wenn Sie Replay wählen, gelangen Sie in den `On-Demand-Store`.
 
 ![](../img/tv/whatson_tvradio_replay.jpg) 
 
 #### Radio
 
-Wenn Sie Radio wählen kommen sie zur Radioauswahl.
+Wählen Sie Radio, wenn Sie zur Radioauswahl navigieren möchten.
 
 ![](../img/tv/whatson_tvradio_radio.jpg) 
 
 ## Guide
 
-Im Guide können Sie sehen was gerade auf den Sendern läuft und welche Sendungen folgen.
+Im Guide sehen Sie, was aktuell auf den Sendern läuft und welche Sendungen folgen.
 
-Navigieren Sie durch die Sendungen und sie können unten den Sendungsnamen, die Beschreibung und die Zeit sehen.
+Navigieren Sie durch die Sendungen, erhalten Sie Informationen über den Namen, die Sendung und die Zeit.
 
-Wenn Sie die Sendung mit `OK` auswählen kommen sie in die Sendung oder wenn die Sendung schon vergangen ist ins Replay, wenn verfügbar.
+Wählen Sie die Sendung mit `OK` aus, gelangen Sie direkt zur Sendung. Oder, wenn die Sendung bereits zu Ende ist, ind den Replay-Modus, falls verfügbar.
 
-Mit den Knöpfen ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) können Sie Tageweise springen. Mit den Knöpfen ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolback.png) in drei Stunden Sprünge.
+Mit den Tasten ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) springen Sie von einem Tag zum anderen. Mit den Knöpfen ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolback.png) springen Sie in 3h Sprüngen.
 
-> Wie viele Stunden angezeigt werden, können Sie in den Einstellungen einstellen.
+> Wie viele Zeit im Guide angezeigt wird, ist abhängig von Ihren Einstellungen.
 
 ![](../img/tv/tv_guidechose.png) 
 
 ### Sendung aufnehmen
 
-Sie können mit dem ![](../img/tv/button_record.png) Knopf auf der Fernbedienung die Sendung aufnehmen.
+Nehmen Sie die gewünschte Sendung auf mit der ![](../img/tv/button_record.png) Taste auf Ihrer Fernbedienung.
 
-Sie können Sendungen, die aufgenommen werden anhand des roten Punktes erkennen.
+Sendungen, die aufgenommen werden, erkennen Sie anhand des roten Punktes.
 
 ![](../img/tv/guide_aufnehmen.jpg) 
 
-Wenn sie bei einer Sendung, die zum Aufnehmen markiert ist, nochmal auf ![](../img/tv/button_record.png) drücken, kommen sie ins Aufnahmemenu.
+Wenn Sie bei einer Sendung, die zum Aufnehmen markiert ist, nochmal auf ![](../img/tv/button_record.png) drücken, gelangen Sie ins Aufnahmemenu.
 
-Mit `Schliessen` kann man das Fenster wieder schliessen.
+Schliessen Sie das Fenster mit der Schaltfläche `Schliessen`.
 
-Mit `Löschen` unterbricht man die Aufnahme und das bereitsaufgenommene wird gelöscht.
+Mit `Löschen` unterbrechen Sie die Aufnahme und das bereits Aufgenommene wird gelöscht.
 
-Unter `Wiederholden` kann man mit den Navigationstasten einstellen ob nur diese Sendung oder die ganze Serie der Sendungen aufgenommen werden soll. Sozusagen ein Serien Aufnahme Abo.
+Unter `Wiederholden` stellen Sie mit den Navigationstasten ein, ob nur diese Sendung oder die ganze Serie der Sendungen aufgenommen werden soll. Sozusagen ein "Serien Aufnahme-Abo".
 
 ![](../img/tv/info_aufnehmen_wiederholen.jpg) 
 
 ### Sendungsinfo
 
-Drücken Sie ![](../img/tv/button_info.png) und Sie kommen in [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo") der gewählten Sendnung.
+Drücken Sie ![](../img/tv/button_info.png) und Sie gelangen in die [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo") der gewählten Sendung.
 
 ## Replay
 
-Wenn Sie auf `Replay` navigieren, kommen Sie in den Replay Store.
+Klicken Sie auf die Schaltfläche `Replay`, gelangen Sie in den Replay Store.
 
 ![](../img/tv/tv_replaychose.png) 
 
-Im Replay Store können Sie alle Sendungen finden, die im Replay verfügbar sind. Hier sind sie schön geordnet nach Kategorie.
+Im Replay Store können Sie alle Sendungen finden, die im Replay verfügbar sind. Diese sind nach Kategorie geordnet.
 
 ![](../img/tv/replay_replay.jpg) 
 
-Filtern Sie Ihre Auswahl nach Sprache in dem Sie nach `Filter` navigieren. Hier können sie die gewünschte Sprache auswählen.
+Filtern Sie Ihre Auswahl nach Sprache in dem Sie mit der Schaltfläche `Filter` navigieren. Wählen Sie hier die gewünschte Sprache aus.
 
 ![](../img/tv/replay_filter.jpg) 
 
 ### Kategorie
 
-Jede Kategorie hat noch Unterkategorien. Sie gelangen zu den Unterkategorie, in dem Sie entweder bei der Kategorie auf `Mehr anzeigen` gehen oder in dem Sie oben auf Kategorie klicken. Hier können Sie nun die Kategorie auswählen und kommen so zu den Unterkategorien.
+Jede Kategorie ist in Unterkategorien unterteilt. Sie gelangen zu den Unterkategorien, in dem Sie entweder bei der Kategorie auf die Schaltfläche `Mehr anzeigen` klicken oder in dem Sie direkt auf den Button Kategorie klicken. Hier können Sie nun die Kategorie auswählen und gelangen so zu den Unterkategorien.
 
 ![](../img/tv/replay_auswkategorie.jpg) 
 
-Nun sind Sie in der Kategorie und sehen Sendungen, die in Unterkategorien gegliedert sind. Auch hier können Sie mit `Mehr anzeigen` alle Sendungen der Unterkategorie anzeigen. Ebenfalls können Sie wie bei den Kategorien über die Schaltfläche `Kategorie` in die unter Kategorie navigieren.
+Nun sind Sie in der Kategorie und sehen Sendungen, die in Unterkategorien gegliedert sind. Auch hier können Sie mit `Mehr anzeigen` alle Sendungen der Unterkategorie anzeigen. Ebenfalls können Sie, wie bei den Kategorien über die Schaltfläche `Kategorie` in die Unterkategorie navigieren.
 
 ![](../img/tv/replay_kategorie.jpg) 
 
 ### Replayinfo
 
-Wenn Sie eine Sendung auswählen, kommen Sie zuerst auf die Info zur Sendung. Hier finden sie eine Beschreibung und wann und auf welchem Sender diese Sendung gelaufen ist.
+Wählen Sie eine Sendung aus und erhalten Sie direkt verschiedene Informationen, wie eine kurze Beschreibung des Inhalts und, auf welchem Sender die Sendung zu welchem Zeitpunkt ausgestrahlt wurde. 
 
-Hier haben Sie nun die Möglichkeit die Sendung `Aufnahme` so könne Sie die Sendung für Sie abrufbar machen auch wenn die Sendung wegen der Replay Grenzen nicht mehr zur Verfügung steht. Oder sie wählen `Abspielen`. Dann wird die Sendung wiedergegeben.
+Klicken Sie auf die Schaltfläche `Aufnahme` und rufen Sie die Sendung auf (auch wenn sie auf Replay nicht mehr verfügbar ist). Oder Sie wählen `Abspielen`. Dann wird die Sendung wiedergegeben.
 
 ![](../img/tv/replay_info.jpg) 
 
 ## Suchen
 
-Wenn Sie auf die Schaltfläche `Suchen` gehen, haben sie die Möglichkeit eine Sendung zu suchen.
+Mit der Schaltfläche `Suchen` können Sie nach einer bestimmten Sendung suchen.
 
 ![](../img/tv/tv_searchchose.png) 
 
-Sie haben zwei Gefässe, in denen Sie suchen können. Zum einen das Guide Gefäss, in dem alle zukünftigen und derzeitigen Sendungen zu finden sind. Und das Replay Gefäss, in dem alle Sendungen zu finden sind die zum Replay zur Verfügung stehen.
+Sie haben zwei Gefässe, in denen Sie eine Sendung suchen können. Einerseits im `Guide`, in dem alle zukünftigen und derzeitigen Sendungen zu finden sind. Und unter `Replay`, in dem alle Sendungen zu finden sind, die als Replay zur Verfügung stehen.
 
-Suchen Sie nach einer Sendung indem Sie die Pfeiltasten auf der Bildschirmtastatur brauchen. Dazu müssen Sie mindestens zweit Zeichen eingeben, damit die Suche startet.
+Suchen Sie nach einer Sendung indem Sie die Pfeiltasten auf der Bildschirmtastatur betätigen. Dazu müssen Sie mindestens zwei Zeichen eingeben, damit die Suche startet.
 
-Wenn Sie eine Sendung auswählen kommen Sie auf die [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo"). Die verkürzte Version finden Sie auch ganz rechts.
+Wenn Sie eine Sendung auswählen, erscheint [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo"). Die verkürzte Version finden Sie auch ganz rechts im Bild.
 
 ![](../img/tv/search_search.jpg) 

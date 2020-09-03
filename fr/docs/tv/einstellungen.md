@@ -1,20 +1,20 @@
 # Einstellungen
 
-Passen Sie Ihr Produkt nach ihren Wünschen und Möglichkeiten an.
+Passen Sie Ihr Produkt nach ihren Wünschen und Bedürfnissen an.
 
 ## Favoriten
 
-Sie möchten eine eigene Senderliste. Hier können Sie eine erstellen.
+Sie möchten Ihre eigene Senderliste? So wird eine erstellt:
 
-Gehen Sie oben auf eine der Favoriten. Nun können Sie in der Liste der Sender mit `OK` Sender hinzufügen. In der Liste der Favoriten können Sie per `OK` und den Pfeiltasten die Reihenfolge ändern oder den Sender aus der Liste nehmen. Mit `Favoriten [NR] aktivieren` können Sie Ihre Liste auswählen. Deaktivieren können Sie die Liste am gleichen Ort.
+Klicken Sie die Schaltfläche `Favoriten`. Nun können Sie in der Liste der Sender mit der Schaltfläche `OK`, Sender hinzufügen. In der Liste der Favoriten können Sie per `OK` Taste und den Pfeiltasten die Reihenfolge ändern oder den Sender aus der Liste entfernen. Mit `Favoriten [NR] aktivieren` können Sie Ihre Liste auswählen. Um auf die Standard Senderliste zu gelangen, können Sie die Liste am gleichen Ort deaktivieren.
 
 ![](../img/tv/einstellung_favoriten.jpg)
 
 ## Profile
 
-Falls Sie mehrere Personen sind, die das TV brauchen, können Sie für jede Person ein `Profil` erstellen. In den Profilen können die Einstellungen in `Audio und Video` und in den `Favoriten` unterschieden werden. So können Sie Diskussionen, wie wer hat wieder ... umgehen.
+Mit der Schaltfläche `Profil` haben Sie die Möglichkeit, verschiedene Profile zu erstellen, je nach Bedürfnis. In den Profilen können die Einstellungen in den Schaltflächen `Audio und Video` und in den `Favoriten` unterschieden werden.
 
-Links finden Sie die Schaltflächen um alles einzustellen. Wenn Sie ein Profil benennen müssen Sie die Tastatur auf der Fernbedienung nutzen.
+Die Schaltflächen auf der linken Seite hilft Ihnen, diese Einstellungen vorzunehmen. Mit der Tastatur auf der Fernbedienung lassen sich die Profile auf einfache Weise benennen.
 
 ![](../img/tv/einstellung_profile.jpg)
 
@@ -28,61 +28,61 @@ In welcher Sprache soll die Oberfläche sein?
 
 ### Audiosprache
 
-Es gibt Sender, die übertragen mehr als eine Sprache. Hier können sie einstellen welche Sprache gewählt werden soll. Die Audiosprache kann von Sender zu Sender eingestellt werden. Weitere Infos finden Sie [hier](../senderinformation/#sprache).
+Es gibt Sender, die Sendungen in mehreren Sprachen übertragen. Definieren Sie Ihre bevorzugte Sprache. Die Audiosprache lässt sich von Sender zu Sender einstellen. Weitere Informationen dazu finden Sie [hier](../senderinformation/#sprache).
 
 ### Untertitel
 
-Sie können Standartmässig Untertitel einschalten. Wenn der Sender diese zur Verfügung stellt werden sie angezeigt. Es gibt Sender, die haben Untertitel in mehreren Sprachen es wird die Sprache gewählt, die Sie ausgewählt haben. Die Untertitel kann von Sender zu Sender eingestellt werden. Weitere Infos finden Sie [hier](../senderinformation/#sprache).
+Untertitel lassen sich standardmässig einschalten. Stellen Sender Untertitel zur Verfügung, wird eine entsprechende Notiz angezeigt. Stellt ein Sender mehrsprachige Untertitel zur Verfügung, werden die Untertitel in der Sprache angezeigt, die Sie definiert haben. Die Untertitel lassen sich von Sender zu Sender einstellen. Weitere Informationen dazu finden Sie [hier](../senderinformation/#sprache).
 
 ### Info Time-out
 
-Sie können einstellen wie lange der Infobanner zu sehen sein soll. Bis er automatisch wieder ausgeblendet wird.
+Sie entscheiden wie lange der Infobanner zu sehen ist, bis er automatisch ausgeblendet wird.
 
 ### Guide Zeitspanne
 
-Hier können Sie einstellen wie viel Zeit im Guide angezeigt werden soll. Wenn Sie 3 Stunden wählen sehen sie einfach den Zeitplan von 3 Stunden. Wenn Sie scrollen machen sie es in den Schritten, die Sie ausgewählt haben.
+Entscheiden Sie welche Zeitspanne im Guide angezeigt werden soll. Wählen Sie 3 Stunden, ist der Zeitplan von 3h ersichtlich. Wenn Sie im Guide scrollen, springen Sie in den hier definierten Schritten.
 
 ### Mein TV
 
-Hier können Sie einstellen welches Verhältnis Ihr TV-Schirm hat.
+Stellen Sie hier das passende TV-Format ein.
 
 ### 4:3 Format oder 16:9 Format
 
-Hier können Sie einstellen was mit den Fernsehbildern des jeweils anderen Formates geschehen soll. Im Hintergrund können Sie sehen wie es danach aussehen wird.
+Hier können Sie einstellen was mit den Fernsehbildern des jeweils anderen Formates geschehen soll. Soll das Bild schwarze Balken haben, verzogen werden oder an den Ränder abgeschnitten. Im Hintergrund können Sie sehen wie es danach aussehen wird.
 
 ### Auto-Sperrung
 
-Hier können Sie die Frist der Admin-Berechtigung einstellen.
+Die Admin-Berechtigung dauert nur eine gewisse Zeit. Hier können Sie die Frist der Admin-Berechtigung einstellen.
 
 ### Name des Gerätes
 
-Geben sie Ihrer Box einen Namen aus der vordefinierten Liste.
+Geben Sie Ihrer Box einen Namen aus der vordefinierten Liste.
 
 ### Standby
 
-Hier können Sie einstellen nach welcher Zeit ohne Interaction das Gerät abschalten soll.
+Definieren Sie, nach welcher Zeit Ihr Gerät, ohne Interaktion, automatisch in den Standby-Modus schaltet.
 
 ## System Information
 
-In den System Informationen können Sie Infos über Ihr TV herauslesen.
+In den System Informationen erhalten Sie Informationen über Ihrr TV-Box.
 
 ### TV-Box
 
-Unter TV-Box finden Sie verschiedene Infos über die Box und die Software. Ebenfalls finden Sie die Serialnummer und die MAC-Adresse, die für den Support wichtig sind.
+Unter TV-Box finden Sie verschiedene Informationen über die TV-Box und die eingesetzte Software. Ebenfalls finden Sie die Serialnummer und die MAC-Adresse, die für den Support wichtig sind.
 
 ![](../img/tv/einstellung_tvbox.jpg)
 
 ### Neustart
 
-Wenn Sie `Portal neu laden` wählen wird die Software neu geladen. Dies kann helfen, wenn etwas Kleines schiefgelaufen ist.
+Um die Software neu zu laden, klicken Sie die Schaltfläche `Portal neu laden`.
 
-Falls Sie `TV-Box neu starten` wählen wird die ganze Box neu gestartet. Sie können auch einfach den Strom der Box aus und wieder ein stecken. Dies kann helfen bei gröberen Fehlern.
+Klicken Sie die Schaltgläche `TV-Box neu starten` wird die ganze TV-Box neu gestartet. Oder nehmen Sie die TV-Box vom Strom. Dies kann helfen bei gröberen Fehlern.
 
 ![](../img/tv/einstellung_neustart.jpg)
 
 ### Widgets
 
-Unter Widgets finden Sie die Verwendete Software und die Version dazu.
+Unter Widgets finden Sie Informationen zur eingesetzten Software und Version.
 
 ![](../img/tv/einstellung_widgets.jpg)
 
@@ -94,37 +94,37 @@ Hier können Sie sehen, welche Kodierung verwendet wird und welche Framerate.
 
 ## Systementsperrung
 
-Dieser Knopf gibt ihnen Admin-Berechtigungen für 15 min. Diese Berechtigung wird gebraucht um die folgenden Einstellungen zu verwalten.
+Diese Taste gibt Ihnen während 15 Minuten Admin-Berechtigungen. Diese Berechtigung benötigen Sie, um die folgenden Einstellungen zu verwalten.
 
-Falls Sie mit Ihren Einstellungen vor dem Ablauf der Zeit zufrieden sind, können Sie die Berechtigung auch manuell wieder aufheben, in dem Sie auf den gleichen Knopf drücken.
+Falls Sie mit Ihren Einstellungen vor dem Ablauf der Zeit zufrieden sind, können Sie die Berechtigung auch manuell wieder aufheben, in dem Sie auf die gleiche Taste klicken.
 
 ## Altersfreigabe
 
-Die Altersfreigabe sperrt alle Sendungen die über der Altersbegrenzung stehen. Diese Informationen werden vom Sender bereitgestellt.
+Die Altersfreigabe sperrt alle Sendungen, die an eine Altersbegrenzung gekoppelt sind. Diese Informationen werden vom Sender bereitgestellt.
 
-Dazu brauchen sie den `Master PIN`.
+Um diese Eingaben zu tätigen, benötigen Sie den `Master PIN`. Der Master PIN wird von Ihrem Anbieter bereitgestellt.
 
 ![](../img/tv/einstellung_altersfreigabe.jpg)
 
 ## Sendersperrung
 
-Wenn Sie nicht möchten, dass bestimmte Sender auf Ihrer TV Box nicht geschaut werden können Sie unter `Sendersperrung` jeden einzelnen Sender Sperren.
+Mit der Schaltfläche `Sendersperrung`stellen Sie sicher, dass einzelne Sender gesperrt werden.
 
-Dazu brauchen sie den `Master PIN`. Nun einfach den Sender auswählen und mit `OK` den Sender sperren oder entsperren.
+Nutzen Sie dazu den `Master PIN`. Wählen Sie den gewünschten Sender aus und bestätigen Sie mit der `OK` Taste die Sperrung, respektive die Entsperrung eines Senders.
 
 ![](../img/tv/einstellung_sendersperrung.jpg)
 
 ## Master PIN
 
-Mit dem Master PIN können Sie Funktionen einschränken. Oder sich einfach absichern vor nicht autorisierter Bedienung.
+Mit dem Master PIN sichern Sie sich ab vor nicht autorisierter Bedienung oder zur Einschränkung von Funktionen.
 
-Dieser PIN ist wie das Admin Passwort Ihrer TV-Box. Auf dieser Seite können Sie den PIN ändern.
+Dieser PIN ist gleich zu werten wie das Admin Passwort Ihrer TV-Box. Auf dieser Seite ändern Sie den PIN bei Bedarf.
 
 ![](../img/tv/einstellung_masterpin.jpg) 
 
 ## Pairing-PIN
 
-Wenn Sie die App oder an ihrem Computer Fernsehen wollen oder Ihre Aufnahmen abrufen, können Sie hier den Pairing-PIN holen.
+Sie möchten unterwegs Fernsehen oder bei Ihnen zuhause während dem Kochen fernsehen. Dann laden Sie die TV-App herunter oder öffnen Sie das Web-TV. Unter der Anleitung finden Sie für was Sie den Pairing-PIN brauchen.
 
 [Anleitung App und Web-TV](../../mobile "Mobile-TV")
 
