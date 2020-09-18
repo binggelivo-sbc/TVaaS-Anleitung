@@ -41,3 +41,4 @@ nav:
 plugins:
   - search:
       lang: it
+  - pdf-export

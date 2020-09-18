@@ -82,3 +82,51 @@ p, ul, ol{
 .md-footer-nav__inner{
     display: none;
 }
+
+@media print {
+    *{
+        background-color: #fff;
+    }
+    h1 {
+      color: #000;
+      background-color: #fff;
+    }
+
+    .md-typeset code{
+        background-color: #1781e3;
+        color: #fafafa;
+    }
+    h1, h2, h3, h4, h5, h6, .md-typeset h1, a, .md-nav__link[data-md-state=blur], .md-header-nav__topic, .md-header a, .md-tabs, .md-nav,
+    [data-md-toggle=search]:checked~.md-header .md-search__input,
+    .md-search-result__teaser,
+    .md-search-result__icon,
+    .md-search-result__meta,
+    .md-nav--primary .md-nav__title[for=__drawer],
+    .md-nav--primary .md-nav__title,
+    .md-nav__link,
+    .md-header,
+    [data-md-toggle=search]:checked~.md-header .md-search__input:not(:placeholder-shown)~.md-search__icon[type=reset],
+    [data-md-toggle=search]:checked~.md-header .md-search__input+.md-search__icon, [data-md-toggle=search]:checked~.md-header .md-search__input::placeholder,
+    .md-search__input+.md-search__icon{
+        color: #1781e3 !important; 
+    }
+    p, ul, ol{
+        color: #000000;
+    }
+
+    img{
+        max-width: 500px !important;
+    }
+    body{
+        background-color: #ffffff !important;
+    }
+}
+
+@page {
+    counter-increment: page;
+
+    @bottom-right {
+        content: counter(page);
+        font-size: 10px;
+    }
+}
