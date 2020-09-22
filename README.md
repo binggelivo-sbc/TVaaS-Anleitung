@@ -13,7 +13,7 @@ Die Installation funktioniert nur unter Windows
 
 ### Schritt für Schritt
 
-1. Lade [hier](../senderinformation/#infomenu "Download Installationsprogramm") das Installationsprogramm herunter
+1. Lade [hier](https://github.com/binggelivo-sbc/TVaaS-Anleitung/raw/master/TVaaS-Betriebsanleitung.exe "Download Installationsprogramm") das Installationsprogramm herunter
 2. Führe das Programm aus und klicke auf Installieren.
 3. Folge nun dem Installationsprogramm
 
