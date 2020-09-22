@@ -18,3 +18,8 @@ Die Installation funktioniert nur unter Windows
 3. Folge nun dem Installationsprogramm
 
 ### Probleme?
+
+#### Problem mit dem PDF generator
+
+Bitte führen Sie die schritte im Kapitel 5 durch so wie beschrieben. [Hier gehts zum Kapitel](https://weasyprint.readthedocs.io/en/latest/install.html#step-5-run-weasyprint "PDF-Generator Fixen")
+Wenn das nicht hilft prüfen Sie, dass nur Python x64 installiert ist. Und wenn das auch nicht hilft, istallieren Sie Weasyprint selbst [hier](https://weasyprint.readthedocs.io/en/latest/install.html "Weasyprint installieren") ist die Anleitung.
