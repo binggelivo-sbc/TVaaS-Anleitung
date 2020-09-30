@@ -1,12 +1,12 @@
 # Einstellungen
 
-Passen Sie Ihr Produkt nach ihren Wünschen und Bedürfnissen an.
+Passen Sie Ihr Produkt nach Ihren Wünschen und Bedürfnissen an.
 
 ## Favoriten
 
-Sie möchten Ihre eigene Senderliste? So wird eine erstellt:
+So erstellen Sie Ihre eigene Senderliste:
 
-Klicken Sie die Schaltfläche `Favoriten`. Nun können Sie in der Liste der Sender mit der Schaltfläche `OK`, Sender hinzufügen. In der Liste der Favoriten können Sie per `OK` Taste und den Pfeiltasten die Reihenfolge ändern oder den Sender aus der Liste entfernen. Mit `Favoriten [NR] aktivieren` können Sie Ihre Liste auswählen. Um auf die Standard Senderliste zu gelangen, können Sie die Liste am gleichen Ort deaktivieren.
+Klicken Sie die Schaltfläche `Favoriten`. Sie können nun in der Liste der Sender mit der Schaltfläche `OK`, Sender hinzufügen. In der Liste der Favoriten können Sie per `OK` Taste und den Pfeiltasten die Reihenfolge ändern oder den Sender aus der Liste entfernen. Mit `Favoriten [NR] aktivieren` können Sie Ihre Liste auswählen. Um auf die Standard Senderliste zu gelangen, können Sie die Liste am gleichen Ort deaktivieren.
 
 ![](../img/tv/einstellung_favoriten.jpg)
 
@@ -14,7 +14,7 @@ Klicken Sie die Schaltfläche `Favoriten`. Nun können Sie in der Liste der Send
 
 Mit der Schaltfläche `Profil` haben Sie die Möglichkeit, verschiedene Profile zu erstellen, je nach Bedürfnis. In den Profilen können die Einstellungen in den Schaltflächen `Audio und Video` und in den `Favoriten` unterschieden werden.
 
-Die Schaltflächen auf der linken Seite hilft Ihnen, diese Einstellungen vorzunehmen. Mit der Tastatur auf der Fernbedienung lassen sich die Profile auf einfache Weise benennen.
+Die Schaltflächen auf der linken Seite helfen Ihnen, diese Einstellungen vorzunehmen. Mit der Tastatur auf der Fernbedienung lassen sich die Profile auf einfache Weise benennen.
 
 ![](../img/tv/einstellung_profile.jpg)
 
@@ -48,7 +48,7 @@ Stellen Sie hier das passende TV-Format ein.
 
 ### 4:3 Format oder 16:9 Format
 
-Hier können Sie einstellen was mit den Fernsehbildern des jeweils anderen Formates geschehen soll. Soll das Bild schwarze Balken haben, verzogen werden oder an den Ränder abgeschnitten. Im Hintergrund können Sie sehen wie es danach aussehen wird.
+Hier können Sie einstellen was mit den Fernsehbildern des jeweils anderen Formates geschehen soll. Soll das Bild schwarze Balken haben, verzogen werden oder an den Rändern abgeschnitten werden. Im Hintergrund können Sie sehen wie es danach aussehen wird.
 
 ### Auto-Sperrung
 
@@ -56,7 +56,7 @@ Die Admin-Berechtigung dauert nur eine gewisse Zeit. Hier können Sie die Frist 
 
 ### Name des Gerätes
 
-Geben Sie Ihrer Box einen Namen aus der vordefinierten Liste.
+Geben Sie Ihrer TV-Box einen Namen aus der vordefinierten Liste.
 
 ### Standby
 
@@ -64,7 +64,7 @@ Definieren Sie, nach welcher Zeit Ihr Gerät, ohne Interaktion, automatisch in d
 
 ## System Information
 
-In den System Informationen erhalten Sie Informationen über Ihrr TV-Box.
+In den System Informationen erhalten Sie Informationen über Ihre TV-Box.
 
 ### TV-Box
 
@@ -76,8 +76,7 @@ Unter TV-Box finden Sie verschiedene Informationen über die TV-Box und die eing
 
 Um die Software neu zu laden, klicken Sie die Schaltfläche `Portal neu laden`.
 
-Klicken Sie die Schaltgläche `TV-Box neu starten` wird die ganze TV-Box neu gestartet. Oder nehmen Sie die TV-Box vom Strom. Dies kann helfen bei gröberen Fehlern.
-
+Klicken Sie die Schaltfläche `TV-Box neu starten` wird die ganze TV-Box neu gestartet. Oder nehmen Sie die TV-Box vom Strom.
 ![](../img/tv/einstellung_neustart.jpg)
 
 ### Widgets
@@ -108,7 +107,7 @@ Um diese Eingaben zu tätigen, benötigen Sie den `Master PIN`. Der Master PIN w
 
 ## Sendersperrung
 
-Mit der Schaltfläche `Sendersperrung`stellen Sie sicher, dass einzelne Sender gesperrt werden.
+Mit der Schaltfläche `Sendersperrung` stellen Sie sicher, dass einzelne Sender gesperrt werden.
 
 Nutzen Sie dazu den `Master PIN`. Wählen Sie den gewünschten Sender aus und bestätigen Sie mit der `OK` Taste die Sperrung, respektive die Entsperrung eines Senders.
 
@@ -124,7 +123,7 @@ Dieser PIN ist gleich zu werten wie das Admin Passwort Ihrer TV-Box. Auf dieser 
 
 ## Pairing-PIN
 
-Sie möchten unterwegs Fernsehen oder bei Ihnen zuhause während dem Kochen fernsehen. Dann laden Sie die TV-App herunter oder öffnen Sie das Web-TV. Unter der Anleitung finden Sie für was Sie den Pairing-PIN brauchen.
+Sie möchten unterwegs oder bei Ihnen zuhause während dem Kochen fernsehen. Laden Sie dazu die TV-App herunter oder öffnen Sie das Web-TV. Unter der verlinkten Anleitung wird erklärt, für was Sie den Pairing-PIN benötigen.
 
 [Anleitung App und Web-TV](../../mobile "Mobile-TV")
 

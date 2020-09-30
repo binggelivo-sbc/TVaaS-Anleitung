@@ -76,11 +76,11 @@ Im Guide sehen Sie, was aktuell auf den Sendern läuft und welche Sendungen folg
 
 Navigieren Sie durch die Sendungen, erhalten Sie Informationen über den Namen, die Sendung und die Zeit.
 
-Wählen Sie die Sendung mit `OK` aus, gelangen Sie direkt zur Sendung. Oder, wenn die Sendung bereits zu Ende ist, ind den Replay-Modus, falls verfügbar.
+Wählen Sie die Sendung mit `OK` aus, gelangen Sie direkt zur Sendung. Oder, falls die Sendung bereits zu Ende ist, in den Replay-Modus.
 
 Mit den Tasten ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) springen Sie von einem Tag zum anderen. Mit den Knöpfen ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolback.png) springen Sie in 3h Sprüngen.
 
-> Wie viele Zeit im Guide angezeigt wird, ist abhängig von Ihren Einstellungen.
+> Wie gross die angezeigte Zeitspanne ist, ist abhängig von Ihren Einstellungen [hier](../einstellungen/#guide-zeitspanne).
 
 ![](../img/tv/tv_guidechose.png) 
 
@@ -88,7 +88,7 @@ Mit den Tasten ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendf
 
 Nehmen Sie die gewünschte Sendung auf mit der ![](../img/tv/button_record.png) Taste auf Ihrer Fernbedienung.
 
-Sendungen, die aufgenommen werden, erkennen Sie anhand des roten Punktes.
+Sendungen, die aufgenommen werden, erkennen Sie anhand eines roten Punktes.
 
 ![](../img/tv/guide_aufnehmen.jpg) 
 
@@ -130,7 +130,7 @@ Nun sind Sie in der Kategorie und sehen Sendungen, die in Unterkategorien geglie
 
 ![](../img/tv/replay_kategorie.jpg) 
 
-### Replayinfo
+### Replay-Info
 
 Wählen Sie eine Sendung aus und erhalten Sie direkt verschiedene Informationen, wie eine kurze Beschreibung des Inhalts und, auf welchem Sender die Sendung zu welchem Zeitpunkt ausgestrahlt wurde. 
 

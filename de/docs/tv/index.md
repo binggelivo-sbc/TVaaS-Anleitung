@@ -16,33 +16,33 @@ Wenn Sie die TV-Box über den ![](../img/tv/button_onstn.png) Knopf anschalten, 
         <image width="355" height="1212" transform="translate(0 0) scale(0.25)" xlink:href="../img/tv/fernbedienung.jpg"/>
     </g>
     <g id="Ebene_1" data-name="Ebene 1">
-        <a href="../../tv/#einschalttasten"><rect id="einausTVAux" class="cls-1" x="22.5" y="7.85" width="13.45" height="18.34"/></a>
-        <a href="../../tv/#farb-navigationstasten"><rect id="Farbnavigationstasten" class="cls-1" x="22.27" y="32.34" width="49.22" height="7.61"/></a>
-        <a href="../../tv/#einschalttasten"><rect id="einausSTB" class="cls-1" x="58.05" y="7.85" width="13.45" height="18.34"/></a>
+        <a href="../tv/#einschalttasten"><rect id="einausTVAux" class="cls-1" x="22.5" y="7.85" width="13.45" height="18.34"/></a>
+        <a href="../tv/#farb-navigationstasten"><rect id="Farbnavigationstasten" class="cls-1" x="22.27" y="32.34" width="49.22" height="7.61"/></a>
+        <a href="../tv/#einschalttasten"><rect id="einausSTB" class="cls-1" x="58.05" y="7.85" width="13.45" height="18.34"/></a>
         <a href=""><rect id="sourcewechsel" class="cls-1" x="38.8" y="14.96" width="10.09" height="10.09"/></a>
-        <a href="../../tv/#skip-und-replay"><rect id="zuruckspringen" class="cls-1" x="22.27" y="44.76" width="16.52" height="7.61"/></a>
-        <a href="../../tv/#skip-und-replay"><rect id="vorspringen" class="cls-1" x="55.22" y="44.76" width="16.28" height="7.61"/></a>
-        <a href="../../tv/#navigationsknopfe"><path id="pfeiltasten" class="cls-1" d="M116.34,86.36H97.92V98.93H82.52v16.43h15.4v12.58h18.42V115.36h15.41V98.93H116.34Zm-2.45,27.07H101.32V100.86h12.57Z" transform="translate(-60.59 3.12)"/></a>
-        <a href="../../tv/#navigationsknopfe"><rect id="home" class="cls-1" x="21.93" y="89.47" width="15.4" height="12.57"/></a>
-        <a href="../../tv/#navigationsknopfe"><rect id="guide" class="cls-1" x="55.75" y="89.47" width="15.4" height="12.57"/></a>
-        <a href="../../tv/#navigationsknopfe"><rect id="info" class="cls-1" x="55.75" y="118.48" width="15.4" height="12.57"/></a>
-        <a href="../../tv/#navigationsknopfe"><rect id="zurück" class="cls-1" x="21.93" y="118.48" width="15.4" height="12.57"/></a>
-        <a href="../../tv/#navigationsknopfe"><rect id="ok" class="cls-1" x="40.73" y="103.97" width="12.57" height="12.57"/></a>
-        <a href="../../tv/#navigationstasten-und-aufnahme"><rect id="startpause" class="cls-1" x="38.43" y="62.11" width="16.91" height="17.81"/></a>
-        <a href="../../tv/#navigationstasten-und-aufnahme"><rect id="stop" class="cls-1" x="23.35" y="71.62" width="12.57" height="12.57"/></a>
-        <a href="../../tv/#navigationstasten-und-aufnahme"><rect id="record" class="cls-1" x="58.49" y="71.62" width="12.57" height="12.57"/></a>
-        <a href="../../tv/#navigationstasten-und-aufnahme"><rect id="vorspullen" class="cls-1" x="58.49" y="57.52" width="12.57" height="12.57"/></a>
-        <a href="../../tv/#navigationstasten-und-aufnahme"><rect id="zurückspullen" class="cls-1" x="23.35" y="57.52" width="12.57" height="12.57"/></a>
-        <a href="../../tv/#skip-und-replay"><rect id="backtostart" class="cls-1" x="38.75" y="44.76" width="16.52" height="7.61"/></a>
-        <a href="../../tv/#lautstarke-und-zapp-tasten"><rect id="sprachnav" class="cls-1" x="39.84" y="137.32" width="14.24" height="15.06"/></a>
-        <a href="../../tv/#lautstarke-und-zapp-tasten"><rect id="mute" class="cls-1" x="40.67" y="154.25" width="12.57" height="6.73"/></a>
-        <a href="../../tv/#lautstarke-und-zapp-tasten"><rect id="ch" class="cls-1" x="57.26" y="136.61" width="13.89" height="25.97"/></a>
-        <a href="../../tv/#lautstarke-und-zapp-tasten"><rect id="vol" class="cls-1" x="22.69" y="136.61" width="13.89" height="25.97"/></a>
-        <a href="../../tv/#spezialtasten"><rect id="option" class="cls-1" x="22.02" y="210.35" width="15.77" height="7.77"/></a>
-        <a href="../../tv/#kanalauswahl-und-texteingabe"><polygon id="zahlentastatur" class="cls-1" points="22.02 167.19 22.02 199.53 37.79 199.53 37.79 207.29 55.38 207.29 55.38 199.53 71.15 199.53 71.15 167.19 22.02 167.19"/></a>
-        <a href="../../tv/#spezialtasten"><rect id="text" class="cls-1" x="22.02" y="199.53" width="15.77" height="7.77"/></a>
-        <a href="../../tv/#spezialtasten"><rect id="titles" class="cls-1" x="55.38" y="199.53" width="15.77" height="7.77"/></a>
-        <a href="../../tv/#spezialtasten"><rect id="radio" class="cls-1" x="55.38" y="210.35" width="15.77" height="7.77"/></a>
+        <a href="../tv/#skip-und-replay"><rect id="zuruckspringen" class="cls-1" x="22.27" y="44.76" width="16.52" height="7.61"/></a>
+        <a href="../tv/#skip-und-replay"><rect id="vorspringen" class="cls-1" x="55.22" y="44.76" width="16.28" height="7.61"/></a>
+        <a href="../tv/#navigationsknopfe"><path id="pfeiltasten" class="cls-1" d="M116.34,86.36H97.92V98.93H82.52v16.43h15.4v12.58h18.42V115.36h15.41V98.93H116.34Zm-2.45,27.07H101.32V100.86h12.57Z" transform="translate(-60.59 3.12)"/></a>
+        <a href="../tv/#navigationsknopfe"><rect id="home" class="cls-1" x="21.93" y="89.47" width="15.4" height="12.57"/></a>
+        <a href="../tv/#navigationsknopfe"><rect id="guide" class="cls-1" x="55.75" y="89.47" width="15.4" height="12.57"/></a>
+        <a href="../tv/#navigationsknopfe"><rect id="info" class="cls-1" x="55.75" y="118.48" width="15.4" height="12.57"/></a>
+        <a href="../tv/#navigationsknopfe"><rect id="zurück" class="cls-1" x="21.93" y="118.48" width="15.4" height="12.57"/></a>
+        <a href="../tv/#navigationsknopfe"><rect id="ok" class="cls-1" x="40.73" y="103.97" width="12.57" height="12.57"/></a>
+        <a href="../tv/#navigationstasten-und-aufnahme"><rect id="startpause" class="cls-1" x="38.43" y="62.11" width="16.91" height="17.81"/></a>
+        <a href="../tv/#navigationstasten-und-aufnahme"><rect id="stop" class="cls-1" x="23.35" y="71.62" width="12.57" height="12.57"/></a>
+        <a href="../tv/#navigationstasten-und-aufnahme"><rect id="record" class="cls-1" x="58.49" y="71.62" width="12.57" height="12.57"/></a>
+        <a href="../tv/#navigationstasten-und-aufnahme"><rect id="vorspullen" class="cls-1" x="58.49" y="57.52" width="12.57" height="12.57"/></a>
+        <a href="../tv/#navigationstasten-und-aufnahme"><rect id="zurückspullen" class="cls-1" x="23.35" y="57.52" width="12.57" height="12.57"/></a>
+        <a href="../tv/#skip-und-replay"><rect id="backtostart" class="cls-1" x="38.75" y="44.76" width="16.52" height="7.61"/></a>
+        <a href="../tv/#lautstarke-und-zapp-tasten"><rect id="sprachnav" class="cls-1" x="39.84" y="137.32" width="14.24" height="15.06"/></a>
+        <a href="../tv/#lautstarke-und-zapp-tasten"><rect id="mute" class="cls-1" x="40.67" y="154.25" width="12.57" height="6.73"/></a>
+        <a href="../tv/#lautstarke-und-zapp-tasten"><rect id="ch" class="cls-1" x="57.26" y="136.61" width="13.89" height="25.97"/></a>
+        <a href="../tv/#lautstarke-und-zapp-tasten"><rect id="vol" class="cls-1" x="22.69" y="136.61" width="13.89" height="25.97"/></a>
+        <a href="../tv/#spezialtasten"><rect id="option" class="cls-1" x="22.02" y="210.35" width="15.77" height="7.77"/></a>
+        <a href="../tv/#kanalauswahl-und-texteingabe"><polygon id="zahlentastatur" class="cls-1" points="22.02 167.19 22.02 199.53 37.79 199.53 37.79 207.29 55.38 207.29 55.38 199.53 71.15 199.53 71.15 167.19 22.02 167.19"/></a>
+        <a href="../tv/#spezialtasten"><rect id="text" class="cls-1" x="22.02" y="199.53" width="15.77" height="7.77"/></a>
+        <a href="../tv/#spezialtasten"><rect id="titles" class="cls-1" x="55.38" y="199.53" width="15.77" height="7.77"/></a>
+        <a href="../tv/#spezialtasten"><rect id="radio" class="cls-1" x="55.38" y="210.35" width="15.77" height="7.77"/></a>
     </g>
 </svg>
 
