@@ -41,4 +41,4 @@ nav:
 plugins:
     - search:
         lang: de
-    - pdf-export
+    #- pdf-export

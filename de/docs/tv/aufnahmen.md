@@ -20,29 +20,29 @@ Ein kurzer Beschrieb gibt Ihnen Auskunft über den Inhalt der Sendung. Wenn Sie 
 
 ![](../img/tv/aufnahmen_alle.jpg) 
 
-In der Liste der Aufnahmen können Sie durch die Spalten gehen. Wenn Sie auf der Spalte ![](../img/tv/button_ok.png)  drücken können Sie die Aufnahmeliste sortieren.
+In der Liste der Aufnahmen können Sie durch die Spalten gehen. Wenn Sie auf der Spalte ![](../img/tv/button_ok.png) drücken können Sie die Aufnahmeliste sortieren.
 
-Wenn Sie eine Aufnahme auswählen kommen sie in die [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo").
+Wenn Sie eine Aufnahme auswählen, gelangen Sie zur [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo").
 
-Links neben der Liste sind Bedienelemente.
+Links neben der Liste befinden sich die Bedienelemente.
 
 ### Filter
 
-Wenn man auf `Filter` klickt erscheint ein Fenster mit allen Kategorien, die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und sie Sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
+Klicken Sie auf die Schaltfläche `Filter` erscheint ein Fenster mit allen Kategorien, die bei Ihren Aufnahmen verfügbar sind. Wählen Sie einen Filter aus und nur noch die Aufnahmen mit der ausgewählten Kategorie sind ersichtlich.
 
 ![](../img/tv/aufnahmen_filter.jpg) 
 
 ### Schauen
 
-Wenn Sie auf `Schauen` gehen beginnt die Aufnahme direkt vom Anfang.
+Klicken Sie auf `Schauen` startet die Aufnahme direkt vom Anfang.
 
 ### Löschen
 
-Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliothek entfernen und somit Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
+Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliothek entfernen und somit Speicherplatz freigeben. Es gibt kein Bestätigungsfenster.
 
 ### Sperren
 
-Wenn Sie nicht möchten das jemand anderes Iher Aufnahme anschaut oder löscht, können Sie die Aufnahme sperren. Nun ist es nur noch mit dem `Master PIN` möglich die Aufnahme zu löschen oder anzusehen.
+Sperren Sie Ihre Aufnahmen, wenn die Aufnahmen nicht von Zweitpersonen angeschaut oder gelöscht werden sollen. Ab diesem Moment kann die Aufnahme nur noch mit der Eingabe des `Master PIN` angeschaut oder gelöscht werden.
 
 ## Geplant
 
@@ -50,7 +50,7 @@ Hier finden Sie alle Sendungen, die in Zukunft aufgenommen werden.
 
 ![](../img/tv/aufnahmen_geplant.jpg) 
 
-In der Liste der Aufnahmen können Sie durch die Spalten Scrollen. Wenn Sie auf der Spalte ![](../img/tv/button_ok.png)  drücken, können Sie die Aufnahmeliste sortieren.
+In der Liste der Aufnahmen können Sie durch die Spalten scrollen. Wenn Sie auf der Spalte ![](../img/tv/button_ok.png)  drücken, können Sie die Aufnahmeliste sortieren.
 
 Wählen Sie eine Aufnahme aus, erscheint die [Sendungsinfo](../senderinformation/#infomenu "Sendungsinfo").
 
@@ -58,13 +58,13 @@ Links neben der Liste befinden sich die Bedienelemente.
 
 ### Filter
 
-Klicken Sie die Schaltfläche `Filter`, erscheint ein Fenster mit allen Kategorien, unter welchen die aufgenommenen Sendungen abgespeichert sind.. Wählen Sie einen Filter aus und Sie sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
+Klicken Sie die Schaltfläche `Filter`, erscheint ein Fenster mit allen Kategorien, unter welchen die aufgenommenen Sendungen abgespeichert sind. Wählen Sie einen Filter aus und Sie sehen nur noch die Aufnahmen mit der ausgewählten Kategorie.
 
 ![](../img/tv/aufnahmen_filter.jpg) 
 
 ### Löschen
 
-Mit `Löschen` können Sie die Aufnahme aus ihrer Bibliothek entfernen und so wieder Speicherplatz freigeben. Achtung es gibt kein Bestätigungsfenster.
+Mit `Löschen` können Sie die Aufnahme aus Ihrer Bibliothek entfernen und so wieder Speicherplatz freigeben. Diese Aktion muss nicht bestätigt werden.
 
 ### Sperren
 

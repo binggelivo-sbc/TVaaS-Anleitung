@@ -12,15 +12,15 @@ Wenn Sie die TV-Box über den ![](../img/tv/button_onstn.png) Knopf anschalten, 
 
 Oben an der Fernbedienung finden Sie die Einschaltknöpfe.
 
-Mit der Taste  `TV/Aux` versetzen Sie den TV in den Stand-by-Modus. Bei der ![](../img/tv/button_onstn.png) Taste  wird nur die Set-Top-Box in den Stand-by-Modus versetzt.
+Mit der Taste `TV/Aux` versetzen Sie den TV in den Stand-by-Modus. Mit dem ![](../img/tv/button_onstn.png) Knopf wird nur die Set-Top-Box in den Stand-by-Modus versetzt.
 
 ### Farb-Navigationstasten
 
-Mit der ![](../img/tv/button_text.png) Taste gelangen Sie zum Teletex, können sie mit den ![](../img/tv/button_colorbuttons.png) Tasten durch den Teletext navigieren.
+Mit der ![](../img/tv/button_text.png) Taste gelangen Sie zu Teletext, mit den ![](../img/tv/button_colorbuttons.png) Tasten können Sie durch den Teletext navigieren.
 
 ### Skip und Replay
 
-Unter den Farb-Nnavigationstasten befinden sich rechts und links die ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) Tasten, mit denen Sie von Sendung zu Sendung springen können.
+Unter den Farb-Navigationstasten befinden sich rechts und links die ![](../img/tv/button_sendback.png) und ![](../img/tv/button_sendfor.png) Tasten, mit denen Sie von Sendung zu Sendung springen können.
 
 In der Mitte der beiden Tasten befindet sich die ![](../img/tv/button_sendstart.png) Taste. Mit dieser gelangen Sie in die Replay-Bibliothek.
 
@@ -30,7 +30,7 @@ Mit den Tasten ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolba
 
 Mit der ![](../img/tv/button_start.png) Taste pausiert und startet das Programm.
 
-Die Taste ![](../img/tv/button_stop.png) bringt Sie aus dem Replay-Modus zurück zum Liveprogramm. Aufnahmen können so beendt werden.
+Die Taste ![](../img/tv/button_stop.png) bringt Sie aus dem Replay-Modus zurück zum Liveprogramm. Aufnahmen können so beendet werden.
 
 Mit der ![](../img/tv/button_record.png) Taste nehmen Sie die gewünschte Sendung auf.
 
@@ -60,11 +60,11 @@ Mit den Pfeiltasten navigieren Sie in den verschiedenen Menüs. Um etwas auszuw�
 
 ### Lautstärke und Zapp Tasten
 
-Stellen Sie die Lautstärke mit den ![](../img/tv/button_vol.png) Tasten. Wenn Sie den TV stumm schalten wollen, Drücken Sie ![](../img/tv/button_mute.png), um den TV stumm zu schalten. Ein erneutes Drücken stellt den TV wieder laut. Funktioniert auch über die oben genannte Lautstärke-Taste.
+Stellen Sie die Lautstärke mit den ![](../img/tv/button_vol.png) Tasten. Wenn Sie den TV stumm schalten wollen, Drücken Sie ![](../img/tv/button_mute.png). Ein erneutes Drücken stellt den TV wieder laut. Funktioniert auch über die oben genannte Lautstärke-Taste.
 
 Die Tasten ![](../img/tv/button_ch.png) ermöglichen das Zappen nach Programmliste.
 
-Die ![](../img/tv/button_spr.png) Taste wird für die Sprachsteuerung gebraucht. (Ist leider noch nicht verfügbar) 
+Die ![](../img/tv/button_spr.png) Taste wird für die Sprachsteuerung gebraucht. (Aktuell noch nicht verfügbar) 
 
 ### Kanalauswahl und Texteingabe
 

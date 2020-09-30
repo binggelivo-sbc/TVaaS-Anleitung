@@ -1,10 +1,10 @@
 # TV Oberfläche
 
-Wenn Sie Ihren TV einschalten, sehen Sie normalerweise den Sender, den Sie zuletzt geschaut haben.
+Wenn Sie Ihren TV einschalten, erscheint der Sender, den Sie zuletzt geschaut haben.
 
 ## Infobanner
 
-Klicken Sie auf ![](../img/tv/button_ok.png) dann schauen Sie das Programm, das auf dem aktuellen Sender läuft. Ebenfalls sehen Sie, welche Sendung zu diesem Zeitpunkt läuft und welche Sendung im Anschluss folgt.
+Klicken Sie auf ![](../img/tv/button_ok.png) schauen Sie das Programm, das auf dem aktuellen Sender läuft. Ebenfalls sehen Sie, welche Sendung zu diesem Zeitpunkt läuft und welche Sendung im Anschluss folgt.
 
 Mit den `rechts und links Tasten` können Sie im Programm des Senders hin- und herwechseln.
 
@@ -62,7 +62,7 @@ Unter `Wiederholen` entscheiden Sie, ob Sie nur eine einzelne Sendung oder die g
 
 #### Von Anfang an schauen
 
-Mit dieser Schaltfläche kann man per OK an den Anfang der Sendung springen.
+Mit dieser Schaltfläche springen Sie mit der OK Taste an den Anfang der Sendung.
 
 ![](../img/tv/info_vonanfang.jpg)
 
@@ -71,14 +71,14 @@ Mit dieser Schaltfläche kann man per OK an den Anfang der Sendung springen.
 1. Zeile: Name der Sendung
 2. Zeile: Sender mit Start- und Endzeit
 3. Zeile: Kategorie
-Lauftext gibt den Inhalt der Sendung in Kürze wider. 
+Lauftext gibt den Inhalt der Sendung in Kürze wieder. 
 Ist die Schaltfläche Verfügbar mit Replay  verfügbar, können Sie die Sendung von Anfang an schauen.
 
 ![](../img/tv/info_schauen.jpg)
 
 ### Sendungsbeschrieb
 
-Oben angefangen mit dem Namen der Sendung. Danach der Sender mit der Start- und Endzeit der Sendung. Darunter die Kategorie. Der lange Text ist der Beschrieb der Sendung. Wenn `Verfügbar mit Replay` zuunterst steht, kann man die Sendung zurückspulen.
+Oben angefangen mit dem Namen der Sendung. Anschliessend der Sender mit der Start- und Endzeit der Sendung. Darunter die Kategorie. Der lange Text ist der Beschrieb der Sendung. Wenn `Verfügbar mit Replay` zuunterst steht, können Sie die Sendung zurückspulen.
 
 ![](../img/tv/info_schauen.jpg)
 
@@ -88,7 +88,7 @@ Auf dem Senderbalken erkennen Sie, welche Sendung im Moment läuft und welche Se
 
 ![](../img/tv/info_schauen.jpg)
 
-> Blenden Sie den Balkem mit einem Klick auf die `OK` Taste. Drücken Sie ein weiteres Mal die `OK` Taste, dann gelangen Sie zur Sendungsinfo.
+> Blenden Sie den Balken mit einem Klick auf die `OK` Taste. Drücken Sie ein weiteres Mal die `OK` Taste, dann gelangen Sie zur Sendungsinfo.
 
 ![](../img/tv/info_programmbalken.jpg)
 
