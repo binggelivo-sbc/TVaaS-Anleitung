@@ -32,3 +32,4 @@ Wenn das nicht hilft prüfen Sie, dass nur Python x64 installiert ist. Und wenn 
 - https://www.mkdocs.org/
 - https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
 - https://squidfunk.github.io/mkdocs-material/
+- CSS Browsers Compatibility: https://autoprefixer.github.io

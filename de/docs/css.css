@@ -2,6 +2,22 @@ body{
     background-color: #000000;
 }
 
+[data-md-toggle=search]:checked~.md-header .md-search__input::-webkit-input-placeholder{
+    color: #1781e3 !important; 
+}
+
+[data-md-toggle=search]:checked~.md-header .md-search__input::-moz-placeholder{
+    color: #1781e3 !important; 
+}
+
+[data-md-toggle=search]:checked~.md-header .md-search__input:-ms-input-placeholder{
+    color: #1781e3 !important; 
+}
+
+[data-md-toggle=search]:checked~.md-header .md-search__input::-ms-input-placeholder{
+    color: #1781e3 !important; 
+}
+
 h1, h2, h3, h4, h5, h6, .md-typeset h1, a, .md-nav__link[data-md-state=blur], .md-header-nav__topic, .md-header a, .md-tabs, .md-nav,
 [data-md-toggle=search]:checked~.md-header .md-search__input,
 .md-search-result__teaser,
@@ -43,6 +59,34 @@ p, ul, ol{
 
 .md-search-result__link:focus, .md-search-result__link:hover{
     background-color: #132030;
+}
+
+
+
+.md-search__input::-webkit-input-placeholder{
+    color: #0048CF !important;
+    opacity: 1;
+}
+
+
+
+.md-search__input::-moz-placeholder{
+    color: #0048CF !important;
+    opacity: 1;
+}
+
+
+
+.md-search__input:-ms-input-placeholder{
+    color: #0048CF !important;
+    opacity: 1;
+}
+
+
+
+.md-search__input::-ms-input-placeholder{
+    color: #0048CF !important;
+    opacity: 1;
 }
 
 
@@ -95,6 +139,18 @@ p, ul, ol{
     .md-typeset code{
         background-color: #1781e3;
         color: #fafafa;
+    }
+    [data-md-toggle=search]:checked~.md-header .md-search__input::-webkit-input-placeholder{
+        color: #1781e3 !important; 
+    }
+    [data-md-toggle=search]:checked~.md-header .md-search__input::-moz-placeholder{
+        color: #1781e3 !important; 
+    }
+    [data-md-toggle=search]:checked~.md-header .md-search__input:-ms-input-placeholder{
+        color: #1781e3 !important; 
+    }
+    [data-md-toggle=search]:checked~.md-header .md-search__input::-ms-input-placeholder{
+        color: #1781e3 !important; 
     }
     h1, h2, h3, h4, h5, h6, .md-typeset h1, a, .md-nav__link[data-md-state=blur], .md-header-nav__topic, .md-header a, .md-tabs, .md-nav,
     [data-md-toggle=search]:checked~.md-header .md-search__input,

@@ -10,10 +10,21 @@ Wenn Sie die TV-Box über den ![](../img/tv/button_onstn.png) Knopf anschalten, 
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 88.82 303.23" width="300px">
     <defs>
-        <style>.cls-1{fill:#fff;opacity:0;}</style>
+        <style>
+        @-webkit-keyframes pulse { 
+            0% { opacity:0; } 
+            50% { opacity:0.2; } 
+            100% { opacity:0; }
+            } 
+        @keyframes pulse { 
+            0% { opacity:0; } 
+            50% { opacity:0.2; } 
+            100% { opacity:0; }
+            } 
+        .cls-1{fill:#1781e3;-webkit-animation-name: pulse;animation-name: pulse;-webkit-animation-duration: 8s;animation-duration: 8s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite; border-radius: 100%}</style>
     </defs>
     <g id="Ebene_2" data-name="Ebene 2">
-        <image width="355" height="1212" transform="translate(0 0) scale(0.25)" xlink:href="../img/tv/fernbedienung.jpg"/>
+        <image width="355" height="1212" transform="translate(0 0) scale(0.25)" xlink:href="../img/tv/fernbedienung.png"/>
     </g>
     <g id="Ebene_1" data-name="Ebene 1">
         <a href="../tv/#einschalttasten"><rect id="einausTVAux" class="cls-1" x="22.5" y="7.85" width="13.45" height="18.34"/></a>
@@ -66,6 +77,8 @@ In der Mitte der beiden Tasten befindet sich die ![](../img/tv/button_sendstart.
 
 Mit den Tasten ![](../img/tv/button_spolfor.png) und ![](../img/tv/button_spolback.png) spulen Sie vor und zurück. Drücken Sie die Tasten mehrmals, wird der Spulvorgang beschleunigt.
 
+Sie können mit den Tasten auch 10 Sekunden zurück und 30 Sekunden vor springen.
+
 Mit der ![](../img/tv/button_start.png) Taste pausiert und startet das Programm.
 
 Die Taste ![](../img/tv/button_stop.png) bringt Sie aus dem Replay-Modus zurück zum Liveprogramm. Aufnahmen können so beendet werden.
@@ -107,6 +120,8 @@ Die ![](../img/tv/button_spr.png) Taste wird für die Sprachsteuerung gebraucht.
 ### Kanalauswahl und Texteingabe
 
 Mit diesen Tasten springen Sie direkt zum Sender Ihrer Wahl gemäss Programmliste.
+
+In einer Aufnahme können Sie per Eingabe der Zeit zum gewünschten Ort springen.
 
 ### Spezialtasten
 
