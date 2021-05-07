@@ -1,61 +1,93 @@
 # Guide
 
-Der Guide ist unter Guide in der Navigation zu finden.
+Der Guide ist unter Guide im Menü zu finden.
 
-## Senderliste
+![](../img/mobile/guideLupe.png) Lupe rechts oben (Suchen) wird unter «More» beschrieben
 
-Hier sind alle Sender aufgelistet mit dem akuellen Programm und den folgenden Sendungen.
+![](../img/mobile/guideSenderliste.jpg)
 
-> Die Reihenfolge der Sender kann in den Einstellungen angepasst werden
+## Oberster Balken (Tag)
 
-![](../img/web/Senderliste.png)
+![](../img/mobile/guideBalken.png)
 
-### Programmpunkt
+Man kann nach links oder nach rechts scrollen, um im Programm-Guide nach Sendungen in der Vergangenheit oder in der Zukunft zu suchen. Man kann den Tag auswählen, indem man den entsprechenden Tab anklickt. Optionen: Today, Yesterday und Tomorrow sowie bis 7 Tage zurück mittels Wochentagname oder 7 Tage voraus mittels «on Tagesname»
 
-Im Programmpunkt kann man zu oberst sehen wann die Sendung beginnt.
+Der aktuell dargestellte Tag steht immer in der Mitte.
 
-Neben der Startzeit kann es Icons haben.
+## Zweiter Balken (Uhrzeit)
 
-![](../img/web/replayready.png) Bedeutet das man im Programmpunkt zurückspulen kann.
+![](../img/mobile/guideZweiterBalken.png)
 
-![](../img/web/schloss.png) Bedeutet das der Inhalt Blockiert ist.
+Auch hier scrollt man nach links oder nach rechts, um die gewünschte Uhrzeit darzustellen.
 
-Darunter kann man der Programm nahme sehen.
+Die aktuelle Uhrzeit wird gekennzeichnet mittels eines kleinen Dreiecks und einer vertikalen Linie durch die Programme der betreffenden Sender.
 
-Und wiederum darunter ist die Kategorie der Sendung. Die Kategorien findet man bei Replay wieder.
+Sobald man sich auf der Zeitachse in der Vergangenheit befindet, kann man den ![](../img/mobile/guideNowButtonRight.png)-Knopf rechts oben drücken, um zur aktuellen Uhrzeit zurückzuspringen. Wenn man sich in der Zukunft bewegt, steht der ![](../img/mobile/guideNowButtonLeft.png)-Knopf links oben, mit welchem man zu «Now» zurückspringen kann.
 
-![](../img/web/Programmpunkt.png)
+## Hauptfeld
 
-## Sender Programm
+![](../img/mobile/guideHauptfeld.png)
 
-Wenn man auf den ![](../img/web/toprogramm.png) klickt kommt man auf die Liste mit den vergangenen und zukünftigen Sendungen eines Senders.
+Hier werden links die Fernsehsender mittels Logo angezeigt.
 
-![](../img/web/Programmliste.png)
+Scrollen mitten im Bildschirm von oben nach unten (und umgekehrt) zeigt die verfügbaren Sender.
 
-### Senderauswahl
+Ein Sender-Logo anklicken bewirkt, dass man zum Live-Programm dieses Senders wechselt.
 
-Zu oberst kann man nach der Senderliste durch die Sender Zappen.
+Scrollen von links nach rechts oder von rechts nach links bewirkt, dass man sich durch die Zeitachse schiebt (Vergangenheit und Zukunft). Wenn man das auf der Höhe eines Senders macht (statt auf dem Zeitbalken), dann scheint es, als würde man nur bei diesem Sender die Zeit schieben, aber wenn man fertig ist mit Schieben, passt sich der ganze Guide wieder an die gewünschte Zeit an.
 
-![](../img/web/Programmliste_sender.png)
+## Live-Programm
 
-### Programmauswahl
+Wenn man bei einem Sender ins Live-Programm einsteigt, kann man die folgenden Optionen anklicken:
 
-In der Programm auswahl sieht man zu vorderst der Startpunkt der Sendung.
+![](../img/mobile/guideStream.jpg)
 
-Danach findet man den Programmname.
 
-Zwischen dem Startzeit und dem Programmnamen kann es ein Icon haben. ![](../img/web/replayreadyend.png) Beduetet das die Sendung schon gelaufen ist und sie nun nachgeschaut werden kann. ![](../img/web/replayready.png) zeigt an das die Sendung läuft und man zurückspulen kann.
+- ![](../img/mobile/guideSprechblase.png) links oben: Audiospur und Untertitel einstellen
+- Text in der Mitte oben: Name der aktuellen Sendung
+- ![](../img/mobile/guideScreenshare.png) rechts oben: externe Geräte wie AirPlay/Chromecast oder Speakers auswählen
+- Pfeile links und rechts vom Bildschirm (inkl. Sendername): zappen auf vorherige oder nächste Sender 
+- ![](../img/mobile/guideVonAnfang.png) Start Sendung von vorne
+- ![](../img/mobile/guidePause.png) Pause oder ![](../img/mobile/guidePlay.png) Play
+- ![](../img/mobile/guideMinimize.png) Fernsehbild wieder verkleinern, um zum TV Guide zurückzukehren
+- Der Balken unten zeigt an, wie weit man sich in der aktuellen Sendung befindet.
 
-Hinter dem Programmnahmen ist die Kategorie der Sendung.
+Alle diese Knöpfe verschwinden nach kurzer Zeit automatisch, aber man kann sie jederzeit wieder zurückholen, indem man bei laufender Sendung mitten auf das Bild klickt.
 
-Je nach Sendung und Fehrnsehsender taucht in der zweiten Zeile das ![](../img/web/schloss.png) Icon auf. Das beudetet, dass der Inhalt blockiert ist.
+![](../img/mobile/guideNestedStream.jpg)
 
-![](../img/web/Programmliste_Programm.png)
+Wenn man nach dem Schauen einer Sendung in den TV Guide zurückkehrt, läuft der aktuelle Sender weiter in Kleinformat ganz unten links. Man kann die aktuelle Sendung pausieren ![](../img/mobile/guideMinPause.png) oder die Wiedergabe abbrechen ![](../img/mobile/guideMinExit.png).
 
-### Zeitauswahl
+Wenn man sich in einer «Replay-Sendung» befindet, sieht das Menü so aus (durch Klicken auf den Bildschirm kommt das Menü zurück):
 
-Zu unterst kann man Tag für Tag durch das Programm navigieren.
+![](../img/mobile/guideVergStream.png)
 
-![](../img/web/Programmliste_Zeit.png)
+- ![](../img/mobile/guideSprechblase.png) links oben: Audiospur und Untertitel einstellen
+- Text in der Mitte oben: Name der aktuellen Sendung
+- ![](../img/mobile/guideScreenshare.png) rechts oben: externe Geräte wie AirPlay/Chromecast oder Speakers auswählen
+- Pfeile links und rechts vom Bildschirm (inkl. Sendername): zappen auf vorherige oder nächste Sender, die aktuell nicht da sind, weil man eine Sendung aus dem Replay anschaut.
+- ![](../img/mobile/guideEnde.png) Stopp und gehe zurück zur EPG-Info;
+- ![](../img/mobile/guidePause.png) Pause oder ![](../img/mobile/guidePlay.png) Play 
+- ![](../img/mobile/guideMinimize.png) Fernsehbild wieder verkleinern, um zum TV Guide zurückzukehren
+- Der Balken unten zeigt an, wie weit man sich in der aktuellen Sendung befindet. Diesen Balken kann man beliebig nach links und rechts schieben.
 
 ## Sendungsinfo
+
+![](../img/mobile/guideStreamInfo.png)
+
+Wenn man eine Sendung in der Zukunft anklickt, erscheinen die Details zur Sendung.
+Es gibt dann drei Auswahloptionen:
+
+- ![](../img/mobile/guideInfoExit.png) diese Ansicht verlassen und zurück zur Übersicht
+- ![](../img/mobile/guideInfoRecord.png) diese Sendung aufnehmen
+- ![](../img/mobile/guideInfoBell.png) eine Erinnerung setzen, für wenn diese Sendung startet
+
+![](../img/mobile/guideVergStreamInfo.jpg)
+
+Wenn man eine Sendung in der Vergangenheit anklickt, erscheinen die Details zur Sendung.
+Es gibt dann vier Auswahloptionen:
+
+- ![](../img/mobile/guideInfoExit.png) diese Ansicht verlassen und zurück zur Übersicht
+- ![](../img/mobile/guideInfoRecord.png) diese Sendung aufnehmen
+- ![](../img/mobile/guideInfoPlay.jpg) diese Sendung abspielen 
+- ![](../img/mobile/guideInfoSearch.jpg) Suchfunktion wird geöffnet (Beschreibung dazu anderswo)

@@ -30,13 +30,19 @@ nav:
     - Aufnahmen: tv/aufnahmen.md
     - Apps: tv/apps.md
     - Einstellungen: tv/einstellungen.md
+  - Web:
+    - Web App: web/index.md
+    - Guide: web/guide.md
+    - Aufnahmen: web/aufnahmen.md
+    - Replay: web/replay.md
+    - Suchen: web/suchen.md
+    - Einstellungen: web/einstellungen.md
   - Mobile:
-    - Mobile: mobile/index.md
+    - TV App: mobile/index.md
     - Guide: mobile/guide.md
     - Aufnahmen: mobile/aufnahmen.md
     - Replay: mobile/replay.md
-    - Suchen: mobile/suchen.md
-    - Einstellungen: mobile/einstellungen.md
+    - Mehr: mobile/mehr.md
 
 plugins:
     - search:
