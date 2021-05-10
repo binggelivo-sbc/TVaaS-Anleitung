@@ -40,7 +40,7 @@ Wählen Sie alle Kanäle aus, welche zu Ihrer Mobile-Favoritenliste gehören sol
 
 ![](../img/mobile/mehrFavSort.png)
 
-Wurde die Favoritenliste unter «Favoriten auswählen» aktiviert, können kann die Reihenfolge der Kanäle in diesem Menü angepasst werden. Bitte halten Sie dazu das Doppelpfeil-Symbol gedrückt und verschieben Sie durch eine Aufwärts-respektive Abwärtsbewegung den Sender an die gewünschte Stelle.
+Wurde die Favoritenliste unter `Favoriten auswählen` aktiviert, kann die Reihenfolge der Kanäle in diesem Menü angepasst werden. Bitte halten Sie dazu das Doppelpfeil-Symbol gedrückt und verschieben Sie durch eine Aufwärts-respektive Abwärtsbewegung den Sender an die gewünschte Stelle.
 
 ### Kindersicherung
 

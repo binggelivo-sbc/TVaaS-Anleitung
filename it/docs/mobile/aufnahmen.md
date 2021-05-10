@@ -2,7 +2,7 @@
 
 ![](../img/mobile/aufnahAufnahliste.jpg)
 
-Die Navigation im Menü «Aufnahmen» wird mit dem Registermenü oben gemacht.
+Die Navigation wird über die Knöpfe `Aufnahmen`, `Geplant` und `Cloud` gesteuert.
 
 ## Aufnahmen
 
@@ -30,7 +30,7 @@ Für beide Optionen können unterschiedliche Reihenfolgen gewählt werden:
 
 ![](../img/mobile/aufnahAufnahdate.png) Das Ausstrahlungsdatum wird angezeigt. Bei einer Serie wird immer das Datum der zuletzt aufgenommenen Episode dargestellt.
 
-Ein ![](../img/mobile/aufnahAufnahserie.png) wird gezeigt, falls es sich um eine Serie handelt. Eine Zahl zeigt die Anzahl der aufgenommenen Episoden an. Hat es dort nichts handelt es sich um eine Einzelsendung.
+Ein ![](../img/mobile/aufnahAufnahserie.png) wird gezeigt, falls es sich um eine Serie handelt. Eine Zahl zeigt die Anzahl der aufgenommenen Episoden an. Fehlt das Icon handelt es sich um eine Einzelsendung.
 
 #### Einzelsendungen und Filme
 

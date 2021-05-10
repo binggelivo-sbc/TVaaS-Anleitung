@@ -32,11 +32,11 @@ nav:
     - Einstellungen: tv/einstellungen.md
   - Web:
     - Web App: web/index.md
-    - Guide: web/guide.md
-    - Aufnahmen: web/aufnahmen.md
-    - Replay: web/replay.md
-    - Suchen: web/suchen.md
-    - Einstellungen: web/einstellungen.md
+    #- Guide: web/guide.md
+    #- Aufnahmen: web/aufnahmen.md
+    #- Replay: web/replay.md
+    #- Suchen: web/suchen.md
+    #- Einstellungen: web/einstellungen.md
   - Mobile:
     - TV App: mobile/index.md
     - Guide: mobile/guide.md

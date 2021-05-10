@@ -1,12 +1,12 @@
 # Webportal
 
-Sie können Ihr Programm auch auf ihrem PC oder Laptop schauen.
+Sie können die gewünschte Sendung auch auf Ihrem PC oder Laptop schauen.
+
+    Die Anleitung zum Webportal ist noch in Bearbeitung
 
 ## Erste Schritte
 
 ### Regristrieren
-
-    Leider noch nicht fertig
 
 Bei Login Fenster gehen sie auf `Regristrieren`.
 
